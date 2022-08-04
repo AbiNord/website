@@ -1,0 +1,42 @@
+.header{cellspacing:10px;}
+
+#now {color=white}
+
+.title {background-image: url('s.jfif'); color:white; height:400px;}
+
+.men {background-image: url('s.jfif'); color:white;}
+
+.form {background-image: url('s.jfif'); color:white;}
+
+.ad {background-color:rgb(236, 63, 64); color:white; }
+.ad a{color:white; }
+
+	a {color:black;}
+
+.about {background-color:rgb(236, 63, 64); color:white;}
+
+.title h1{ width:25%;background-color:rgb(236, 63, 64, 0.7);}
+
+.title h2{ width:50%;background-color:rgb(236, 63, 64 , 0.7);}
+	
+.form h3{ width:50%;background-color:rgb(236, 63, 64 , 0.7);}
+	
+.form h1{ width:25%;background-color:rgb(236, 63, 64, 0.7);}	
+	
+.form h2{ width:25%;background-color:rgb(236, 63, 64, 0.7);}
+figure{
+	display:inline;
+}
+.menu{
+	display:flex;
+	padding:0;
+}
+.menu figure{
+	flex-grow:1;
+}
+p {size:+10}
+
+.footer {background-color:rgb(236, 63, 64); color:white; ; align:left;}
+
+.men{display:flex;}
+.men h2{ width:50%;background-color:rgb(236, 63, 64 , 0.7);}

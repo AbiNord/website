@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8"/>
+		<title>
+			shuki shakshouki
+		</title>
+		<link rel="stylesheet" type="text/css" href="shakshuki.css"/>
+	</head>
+	<body>
+		<div class=header>
+			<table cellspacing="10px">
+				<tr> 
+					<th> <img src="food.png" width="50px"/> </th>
+					<th><b>Home</b> </th>
+					
+						<th><a href="menu.html"> <b>Menu</b></th></a>
+					
+		
+					<th> <b>Order</b> </th>
+					<th> <b>About us</b> </th>
+					
+				</tr> 
+			</table> 
+		</div>
+		<div class="ad">
+			<center> <h1> Get 50% off your first order! order now</h1> </center>
+		</div>
+		<div class="title">
+		
+			<h1> Shuki Shakshuki</h1>
+			<h2> food for hungry people <br/> Welcome to the offical shuki shakshuki website! <br/> Here, you can order food online frome the resturant to your door! <br/> order today!</h2>
+		</div>
+		<div class="fotter">
+			
+		</div>
+	</body>
+</html>
